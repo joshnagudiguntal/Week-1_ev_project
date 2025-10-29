@@ -11,6 +11,7 @@ Electric Vehicles are becoming increasingly popular,but their prices and perform
 
 The Aim of this project is to:
 -Predict the **price** of an Electric Vehicle based on its specifications
+
 -Learn how to **forecast the range**(distance the Ev can travel on a full charge)
 
 ## 📂 Files Included  
