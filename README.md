@@ -54,6 +54,8 @@ Generative AI tools such as *OpenAI (ChatGPT), **Google Gemini, **DALL·E, and *
 
 ## 🎯 Outcome  
 A trained Machine Learning model capable of predicting:
+
 -The **price** of Electric Vehicles
+
 -The **range** they can travel on a single charge
 
