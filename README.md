@@ -8,6 +8,7 @@ The goal is to build a predictive model that estimates EV prices and helps under
 ---
 ## Problem Statement
 Electric Vehicles are becoming increasingly popular,but their prices and performance vary based on several technical specifications
+
 The Aim of this project is to:
 -Predict the **price** of an Electric Vehicle based on its specifications
 -Learn how to **forecast the range**(distance the Ev can travel on a full charge)
