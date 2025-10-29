@@ -1,4 +1,5 @@
 Week-1 Chatbot Creation & EV Vehicle_Price_Prediction
+
 This project focuses on predicting the price of Electric Vehicles (EVs) using *Machine Learning* techniques.  
 It includes a dataset of 200 EV models with various features such as range, battery capacity, charging time, and more.  
 
